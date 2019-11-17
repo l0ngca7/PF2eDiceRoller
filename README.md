@@ -6,5 +6,5 @@
 <h1>Windows Example:</h1>
 ![Image of Windows Example](example.PNG?raw=true "Example")
 
-<h1>TODO</h1>
+<h1>TODO:</h1>
 - [ ] Error checking for arguments
